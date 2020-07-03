@@ -1,19 +1,18 @@
-# This is a large heading
+# Sarah Teeters
 
-## This is a smaller heading
+## Chicago Illinois
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in *Grayslake* and have a dog whose name is **Sampson**.  He is a German Shepherd who loves to sleep, chase *squirrels* and **eat**
 
-- This is
-- an unordered
-- list
+Three of my favorite books are
+- The Wheel of Time
+- Stephanie Plum
+- Shutter Island
 
-1. This is
-2. an ordered
-3. list
+My favorite movies are
+1. Lord of the Rings
+2. Face/Off
+3. The Martian
 
 Here is `some code` in the middle of a sentence.
 
@@ -23,6 +22,4 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+I really dislike facebook. But here it is if want [a link](http://www.facebook.com).
