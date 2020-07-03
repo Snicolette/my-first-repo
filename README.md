@@ -22,4 +22,4 @@ a block
 of code
 ```
 
-I really dislike facebook. But here it is if want [a link](http://www.facebook.com).
+I really dislike facebook. But here it is if you want [the link](http://www.facebook.com).
